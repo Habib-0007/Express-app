@@ -1,0 +1,11 @@
+{
+  "name": "express-tut",
+  "version": "1.0.0",
+  "description": "This is a simple Express app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Habib Adebayo",
+  "license": "ISC"
+}
